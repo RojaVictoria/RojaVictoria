@@ -10,3 +10,4 @@ HTML | CSS | Bootstrap | JavaScript | API Rest | Vue.js | Python3 | Django | Pos
 victoria.rojascabrera@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/victoriarojascabrera/)
+[Portafolio](https://victoriarojas.netlify.app/)
